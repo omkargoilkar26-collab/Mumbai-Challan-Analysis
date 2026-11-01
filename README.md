@@ -143,4 +143,4 @@ mumbai-traffic-analysis/
 
 ## Author
 
-**Omkar Goilkar**: [LinkedIn]([[FILL: URL]]) | [GitHub]([[FILL: URL]])
+**Omkar Goilkar**: LinkedIn: https://www.linkedin.com/in/omkargoilkar/ | Github: https://github.com/omkargoilkar26-collab
