@@ -122,7 +122,6 @@ mumbai-traffic-analysis/
 ├── data/                  # source CSVs
 ├── notebooks/             # analysis notebook
 ├── powerbi/               # .pbix dashboard
-└── images/                # dashboard screenshots
 ```
 
 ## How to run
