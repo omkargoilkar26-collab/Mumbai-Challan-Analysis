@@ -59,7 +59,7 @@ Both source tables include a "Grand Total" row, which was removed before any sta
 - **Action:** Prioritise the top 10 stations for targeted recovery drives, including pending-challan reminders, repeat-offender follow-ups and focused collection campaigns.
 
 ### 3. Unpaid vs paid ticket size, and station size vs non-payment
-- **Insight:** Average unpaid fine was ₹73.71 Lakh, compared with ₹13.22 Lakh for paid challans. Small stations recorded an average unpaid rate of 80.60%, medium stations 80.88%, and large stations 82.10%.
+- **Insight:** Average unpaid fine was ₹792.13, compared with ₹787.12 for paid challans. Small stations recorded an average unpaid rate of 80.60%, medium stations 80.88%, and large stations 82.10%.
 - **So what:** Higher-value challans appear harder to recover, while consistently high unpaid rates across all station sizes suggest that non-payment is a widespread issue rather than a station-size problem.
 
 ### 4. Enforcement is concentrated on one offense
