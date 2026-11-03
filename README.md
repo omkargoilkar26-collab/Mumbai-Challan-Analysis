@@ -54,7 +54,7 @@ Both source tables include a "Grand Total" row, which was removed before any sta
 - **Action:** Look at payment friction citywide (reminders, payment channels, escalation after a deadline), starting with the high-volume stations where the most money is stuck.
 
 ### 2. Unpaid money is concentrated in a few stations
-- **Insight:** top 10 stations hold 25.92% of all unpaid money (₹173M of ₹550M)
+- **Insight:** top 10 stations hold 35.2% of all unpaid money (₹173M of ₹550M)
 - **So what:** The concentration of unpaid challan amounts at a relatively small group of stations indicates an opportunity to improve recovery     efficiency through focused enforcement and follow-up efforts.
 - **Action:** Prioritise the top 10 stations for targeted recovery drives, including pending-challan reminders, repeat-offender follow-ups and focused collection campaigns.
 
