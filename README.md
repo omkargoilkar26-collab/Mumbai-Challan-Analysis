@@ -27,7 +27,7 @@ Analysis of 2024 traffic challan and violation data across 91 Mumbai police stat
 
 ## Data
 
-Public Mumbai traffic data for 2024. Source: [[FILL: source URL]]
+Public Mumbai traffic data for 2024. Source: (https://data.opencity.in/dataset/mumbai-traffic-violations-data-2024)
 
 | File | Used | Notes |
 |---|---|---|
