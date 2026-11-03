@@ -89,7 +89,7 @@ Violations were grouped into two buckets. The grouping is an analyst judgment, n
 ![Page 1: Collection overview](Image/dashboard_page1.png)
 ![Page 2: Enforcement and risk](Image/dashboard_page2.png)
 
-The Power BI file is in `powerbi/`. Features: station slicer, citywide and per-station KPIs, paid vs unpaid breakdown, top violation types, challan volume vs unpaid rate by station.
+The Power BI file is in `Dashboard/Mumbai Traffic Violation Analysis Dashboard.pbix`. Features: station slicer, citywide and per-station KPIs, paid vs unpaid breakdown, top violation types, challan volume vs unpaid rate by station.
 
 ---
 
