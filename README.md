@@ -79,8 +79,8 @@ Violations were grouped into two buckets. The grouping is an analyst judgment, n
 | High Risk | 'Drunk_and_Drive','Speed_Violation','Without_Seatbelt','Wrong_side_driving','Lane_cutting', 'Jumping_signal','Without_Helmet' | 56.81% |
 | Low Risk | 'Carry_excess_Passenger', 'Causing_Obstruction_To_Free_Flow_Of_Traffic','Demanding_excess_fare_from_the_passenger','Disobedience_of_Police_order/direction','Failed_to_produce_valid_PUCC', 'Honking','Modification_in_Silencer','No_Entry_In_Oneway','Other_MV_Acts','Police_stop_violation','Refusal_To_Ply','Tinted_glasses_Black_Film','Triple_Seat','Unauthorised_Modification_In_Vehicle','WO_Permit','Without_MDL','Without_Uniform' | 43.19% |
 
-- **Insight:** [[FILL: outlier station and how many times the citywide rate, computed under this same grouping]]
-- **So what:** [[FILL]]
+- **Insight:** High-risk violations account for 56.81% of all recorded violations, exceeding low-risk violations (43.19%).
+- **So what:** - A significant share of traffic violations involves potentially serious road-safety risks, highlighting the need for stronger enforcement and road-safety awareness.
 
 ---
 
