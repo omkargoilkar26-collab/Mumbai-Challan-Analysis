@@ -59,8 +59,8 @@ Both source tables include a "Grand Total" row, which was removed before any sta
 - **Action:** Prioritise the top 10 stations for targeted recovery drives, including pending-challan reminders, repeat-offender follow-ups and focused collection campaigns.
 
 ### 3. Unpaid vs paid ticket size, and station size vs non-payment
-- **Insight:** [[FILL: average unpaid fine vs average paid fine; small / medium / large station unpaid rates]]
-- **So what:** [[FILL]]
+- **Insight:** Average unpaid fine was ₹73.71 Lakh, compared with ₹13.22 Lakh for paid challans. Small stations recorded an average unpaid rate of 80.60%, medium stations 80.88%, and large stations 82.10%.
+- **So what:** Higher-value challans appear harder to recover, while consistently high unpaid rates across all station sizes suggest that non-payment is a widespread issue rather than a station-size problem.
 
 ### 4. Enforcement is concentrated on one offense
 - **Insight:** Riding without a helmet is 52.73% of all violations (447,069). The top three categories (helmet, "Other M.V. Acts", obstruction to traffic flow) are about 88% of everything. Drunk driving, speeding and wrong-side driving do not appear among the ten most common violation types citywide.
@@ -72,13 +72,17 @@ Both source tables include a "Grand Total" row, which was removed before any sta
 - **So what:** Local enforcement character does vary (for example obstruction dominates at Dharavi and Azad Maidan), but the variation is between low-severity categories.
 
 ### 6. Risk profile of enforcement
-Violations were grouped into three buckets. The grouping is an analyst judgment, not an official classification.
+Violations were grouped into two buckets. The grouping is an analyst judgment, not an official classification.
 
 | Bucket | Violations included | Share of all violations |
 |---|---|---|
-| [[FILL: crash-causing]] | [[FILL: columns]] | [[FILL: %]] |
-| [[FILL: injury-mitigation]] | [[FILL: columns]] | [[FILL: %]] |
-| Procedural / other | [[FILL: columns]] | [[FILL: %]] |
+| High Risk | ['Drunk_and_Drive','Speed_Violation','Without_Seatbelt','Wrong_side_driving','Lane_cutting', 'Jumping_signal','Without_Helmet']] | [56.81% |
+| [Low Risk] | ['Carry_excess_Passenger', 'Causing_Obstruction_To_Free_Flow_Of_Traffic',
+                'Demanding_excess_fare_from_the_passenger',
+                'Disobedience_of_Police_order/direction','Failed_to_produce_valid_PUCC', 'Honking',
+                'Modification_in_Silencer','No_Entry_In_Oneway','Other_MV_Acts','Police_stop_violation',
+                'Refusal_To_Ply','Tinted_glasses_Black_Film','Triple_Seat','Unauthorised_Modification_In_Vehicle',
+                'WO_Permit','Without_MDL','Without_Uniform'] | 43.19% |
 
 - **Insight:** [[FILL: outlier station and how many times the citywide rate, computed under this same grouping]]
 - **So what:** [[FILL]]
