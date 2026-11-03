@@ -64,14 +64,14 @@ Both source tables include a "Grand Total" row, which was removed before any sta
 
 ### 4. Enforcement is concentrated on one offense
 - **Insight:** Riding without a helmet is 52.73% of all violations (447,069). The top three categories (helmet, "Other M.V. Acts", obstruction to traffic flow) are about 88% of everything. Drunk driving, speeding and wrong-side driving do not appear among the ten most common violation types citywide.
-- **So what:** Enforcement volume follows the offenses that are easiest to observe and record. Offenses that need active patrols or testing barely register.
+- **So what:** Recorded enforcement is heavily concentrated in a few violation categories, while several serious offenses account for a much smaller share of recorded challans. This raises questions about the visibility and detection of different offenses.
 - **Action:** Review whether enforcement capacity is being steered toward high-severity offenses, or whether the data simply reflects how hard they are to detect.
 
 ### 5. Stations differ, but not on the dangerous offenses
 - **Insight:** The most common violation is helmet at 60 of 91 stations, "Other M.V. Acts" at 21, and obstruction at 10. No station's most common violation is drunk driving, speeding or wrong-side driving.
 - **So what:** Local enforcement character does vary (for example obstruction dominates at Dharavi and Azad Maidan), but the variation is between low-severity categories.
 
-### 6. Risk profile of enforcement
+### 6. Risk Classification of Recorded Violations
 Violations were grouped into two buckets. The grouping is an analyst judgment, not an official classification.
 
 | Bucket | Violations included | Share of all violations |
@@ -80,8 +80,7 @@ Violations were grouped into two buckets. The grouping is an analyst judgment, n
 | Low Risk | 'Carry_excess_Passenger', 'Causing_Obstruction_To_Free_Flow_Of_Traffic','Demanding_excess_fare_from_the_passenger','Disobedience_of_Police_order/direction','Failed_to_produce_valid_PUCC', 'Honking','Modification_in_Silencer','No_Entry_In_Oneway','Other_MV_Acts','Police_stop_violation','Refusal_To_Ply','Tinted_glasses_Black_Film','Triple_Seat','Unauthorised_Modification_In_Vehicle','WO_Permit','Without_MDL','Without_Uniform' | 43.19% |
 
 - **Insight:** High-risk violations account for 56.81% of all recorded violations, exceeding low-risk violations (43.19%).
-- **So what:** - A significant share of traffic violations involves potentially serious road-safety risks, highlighting the need for stronger enforcement and road-safety awareness.
-
+- **So what:** - A significant share of recorded violations falls into the analyst-defined high-risk category, highlighting the importance of road-safety enforcement and awareness.
 ---
 
 ## Dashboard
